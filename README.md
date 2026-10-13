@@ -17,6 +17,7 @@
 - Vanilla JavaScript (фильтрация, Lightbox, темы оформления, быстрая заявка)
 - Google Fonts (*Cormorant Garamond*, *Plus Jakarta Sans*, *Playfair Display*)
 
-## 🚀 Запуск
-Просто откройте файл `index.html` в любом браузере.
-Для публикации на GitHub Pages: включите GitHub Pages в настройках репозитория (`Settings` -> `Pages` -> ветка `main` / root).
+## 🚀 Ссылка на сайт
+Живой сайт: [https://aleshikat-design.github.io/](https://aleshikat-design.github.io/)
+
+Репозиторий: [https://github.com/aleshikat-design/aleshikat-design.github.io](https://github.com/aleshikat-design/aleshikat-design.github.io)
